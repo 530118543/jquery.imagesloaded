@@ -12,3 +12,7 @@ $('img').imagesloaded(function () {
     alert('image all loaded!');
 });
 ```
+
+## License
+
+MIT
